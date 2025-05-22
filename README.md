@@ -46,7 +46,7 @@ This **Power BI dashboard** provides an in-depth analysis of **Amazon's global s
 ## 📂 Files Included
 
 - 🔗 **https://docs.google.com/spreadsheets/d/1qUoprBrDOleyrBFu8623iaz2w_6B_oDV/edit?usp=sharing&ouid=111768811949552230543&rtpof=true&sd=true**
-- 🔗 **[(https://github.com/tanshigarg/Amazon-Sales-Dasboard/blob/cefa285c985635a55c28a9b41030966543948236/amazon%20global%20sales%20dashboard.pbix)](https://drive.google.com/file/d/1WXz-RyB7JmaV7evfn4n5whaqJKJja2eI/view?usp=sharing)**
+- 🔗 (https://drive.google.com/file/d/1WXz-RyB7JmaV7evfn4n5whaqJKJja2eI/view?usp=drive_link)
 - 🖼️ ![Amazon Global Sales Dashboard](https://github.com/tanshigarg/Amazon-Sales-Dasboard/blob/6807b80097071e39282df08492d74921afa96480/Dashboard%20image.png)
 
 ## 📢 Conclusion
